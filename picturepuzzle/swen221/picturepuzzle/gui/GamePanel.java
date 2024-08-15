@@ -33,6 +33,7 @@ import swen221.picturepuzzle.moves.Rotation;
  * @author betty
  *
  */
+// I think a comment is sufficient.
 @SuppressWarnings("serial")
 public class GamePanel extends JPanel {
 
